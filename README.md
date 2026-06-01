@@ -21,60 +21,6 @@ bleys-consultancy/
 └── README.md            # This file
 ```
 
----
-
-## 🚀 Quick Start
-
-### 1. **Local Development**
-
-```bash
-# Clone or download files
-cd bleys-consultancy
-
-# Start a local server (Python 3)
-python -m http.server 8000
-
-# Or use Node.js http-server
-npx http-server
-
-# Visit http://localhost:8000
-```
-
-### 2. **Deploy to Vercel (Recommended)**
-
-```bash
-# Install Vercel CLI
-npm i -g vercel
-
-# Deploy from project directory
-vercel
-
-# Follow prompts, select default settings
-# Your site will be live at https://bleys-consultancy.vercel.app
-```
-
-### 3. **Deploy to Netlify**
-
-```bash
-# Drag & drop the entire folder to Netlify
-# Or use Netlify CLI
-
-npm i -g netlify-cli
-netlify deploy --prod
-
-# Or via GitHub integration (recommended for future updates)
-```
-
-### 4. **Deploy to GitHub Pages**
-
-1. Create a new GitHub repository called `bleys-consultancy`
-2. Push files to `main` branch
-3. Go to **Settings → Pages → Build and deployment**
-4. Select **Deploy from a branch** and choose `main`
-5. Your site will be live at `https://<username>.github.io/bleys-consultancy`
-
----
-
 ## ⚙️ Configuration
 
 ### Language Settings
