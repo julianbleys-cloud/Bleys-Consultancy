@@ -571,7 +571,10 @@ section {
     margin-bottom: 3rem;
     padding-bottom: 3rem;
   }
-
+   .nav-logo {
+  height: 44px;
+  max-width: 140px;
+  }
   .founder-pic {
     width: 200px;
     height: 200px;
